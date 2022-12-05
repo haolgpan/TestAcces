@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
+
 public class Main {
     //Index
     //spicesNames; --> 0
@@ -26,18 +28,20 @@ public class Main {
     //spiceCuisine;  --> 6
     //spiceProductStyle;  --> 7
     //spiceBotanicalName;  --> 8
-    //spiceShellLife; --> 9
-    //spiceBottleStyle; --> 10
-    //spiceCapacityVolume; --> 11
-    //spiceDimensions; --> 12
-    //spiceCap; --> 13
-    //spiceCaffeine; --> 14
-    //spiceScoville; --> 15
-    //spiceHandling; --> 16
-    //spiceOrigin; --> 17
-    //spiceDietary; --> 18
-    //spiceAllergen; --> 19
-    //spiceLink; --> 20
+    //spiceFold; --> 9
+    //spiceNotes; --> 10
+    //spiceShellLife; --> 11
+    //spiceBottleStyle; --> 12
+    //spiceCapacityVolume; --> 13
+    //spiceDimensions; --> 14
+    //spiceCap; --> 15
+    //spiceCaffeine; --> 16
+    //spiceScoville; --> 17
+    //spiceHandling; --> 18
+    //spiceOrigin; --> 19
+    //spiceDietary; --> 20
+    //spiceAllergen; --> 21
+    //spiceLink; --> 22
     static List<String[]> spiceBD = new ArrayList<String[]>();
     static List<String> spicesLinks = new ArrayList<>();
     static List<String> spicesNames = new ArrayList<>();
@@ -211,6 +215,7 @@ public class Main {
             }
         }catch (NoSuchElementException e){}
     }
+    //Without OpenCSV
     /*public static void outputToCsv(){
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter("src/test.csv"));
@@ -236,7 +241,7 @@ public class Main {
 
         try {
             CSVWriter csvWriter = new CSVWriter( new OutputStreamWriter(new FileOutputStream("spices.csv"), StandardCharsets.UTF_8),
-                    ';',
+                    ',',
                     CSVWriter.DEFAULT_QUOTE_CHARACTER,
                     CSVWriter.DEFAULT_ESCAPE_CHARACTER,
                     CSVWriter.DEFAULT_LINE_END
@@ -251,5 +256,8 @@ public class Main {
         }
     }
     public static void xmlOuput() {
+        for (int i = 1; i < spiceBD.size(); i++) {
+
+        }
     }
 }
