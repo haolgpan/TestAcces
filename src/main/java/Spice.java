@@ -213,4 +213,32 @@ public class Spice {
     public void setLink(String link) {
         this.link = link;
     }
+
+    public Spice(String name, String intro, String description, String ingredients, String basic, String recommended, String cuisine, String productStyle, String botanicalName, String fold, String notes, String shellLife, String bottleStyle, String capacityVolume, String dimensions, String cap, String caffeine, String scoville, String handling, String origin, String dietary, String allergen, String link) {
+        this.name = name;
+        this.intro = intro;
+        this.description = description;
+        this.ingredients = ingredients;
+        this.basic = basic;
+        this.recommended = recommended;
+        this.cuisine = cuisine;
+        this.productStyle = productStyle;
+        this.botanicalName = botanicalName;
+        this.fold = fold;
+        this.notes = notes;
+        this.shellLife = shellLife;
+        this.bottleStyle = bottleStyle;
+        this.capacityVolume = capacityVolume;
+        this.dimensions = dimensions;
+        this.cap = cap;
+        this.caffeine = caffeine;
+        this.scoville = scoville;
+        this.handling = handling;
+        this.origin = origin;
+        this.dietary = dietary;
+        this.allergen = allergen;
+        this.link = link;
+    }
+    public Spice(){
+    }
 }

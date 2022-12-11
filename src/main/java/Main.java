@@ -1,5 +1,7 @@
 import com.opencsv.CSVWriter;
 import jakarta.xml.bind.JAXBContext;
+import jakarta.xml.bind.JAXBException;
+import jakarta.xml.bind.Marshaller;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -67,7 +69,7 @@ public class Main {
             spicesLinks.add(spicesElements.get(i).findElement(By.tagName("a")).getAttribute("href"));
         }
         //spicelink size is 481
-        for(int i = 479; i < spicesLinks.size()-1 ; i++ )//For some unknown reason, it will only iterate to 480 skipping 481
+        for(int i = 0; i < spicesLinks.size()-1 ; i++ )//For some unknown reason, it will only iterate to 480 skipping 481
         {
             try{
                 String [] spiceFullInfo = new String[23];
@@ -129,6 +131,7 @@ public class Main {
         }
         openCsvOutput();
         spiceBD.forEach(strings -> System.out.println(Arrays.toString(strings)));
+        xmlOuput();
         driver.quit();
     }
     public static void tableSearchAllInfo(WebDriver driver, String[] spiceFullinfo) {
@@ -256,8 +259,26 @@ public class Main {
         }
     }
     public static void xmlOuput() {
+        Spices spiceXML = new Spices();
         for (int i = 1; i < spiceBD.size(); i++) {
-
+            spiceXML.add(new Spice(spiceBD.get(i)[0],spiceBD.get(i)[1],spiceBD.get(i)[2],spiceBD.get(i)[3],
+                    spiceBD.get(i)[4],spiceBD.get(i)[5],spiceBD.get(i)[6],spiceBD.get(i)[7],spiceBD.get(i)[8],
+                    spiceBD.get(i)[9],spiceBD.get(i)[10],spiceBD.get(i)[11],spiceBD.get(i)[12],spiceBD.get(i)[13],
+                    spiceBD.get(i)[14],spiceBD.get(i)[15],spiceBD.get(i)[16],spiceBD.get(i)[17],spiceBD.get(i)[18],
+                    spiceBD.get(i)[19],spiceBD.get(i)[20],spiceBD.get(i)[21],spiceBD.get(i)[22]));
         }
+        JAXBContext jaxbContext;
+        try {
+            jaxbContext = JAXBContext.newInstance(Spices.class);
+            Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
+
+            jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+
+            jaxbMarshaller.marshal(spiceXML, new File("spices.xml"));
+            jaxbMarshaller.marshal(spiceXML, System.out);
+        } catch (JAXBException e) {
+            e.printStackTrace();
+        }
+
     }
 }
