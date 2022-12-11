@@ -16,7 +16,12 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+/**
+* Este clase realiza un Web Scrapping sobre una página que contiene un lista de hierbas y especias.
+ * @author: Hao Long Pan Zhao
+ * @see <a href = "https://www.spicejungle.com/list-of-spices" />
+ * @version: 12/12/2022
+ */
 
 
 public class Main {
@@ -44,6 +49,8 @@ public class Main {
     //spiceDietary; --> 20
     //spiceAllergen; --> 21
     //spiceLink; --> 22
+
+    //Campos de la clase
     static List<String[]> spiceBD = new ArrayList<String[]>();
     static List<String> spicesLinks = new ArrayList<>();
     static List<String> spicesNames = new ArrayList<>();
@@ -134,6 +141,12 @@ public class Main {
         xmlOuput();
         driver.quit();
     }
+
+    /**
+     * Método para extraer datos que esta en formato tabla y las guarda en una Arraylist.
+     * @param driver Este parámetro define la web de entrada donde se extrae los datos
+     * @param spiceFullinfo Este parámetro guarda la información extraída
+     */
     public static void tableSearchAllInfo(WebDriver driver, String[] spiceFullinfo) {
         try{
             WebElement mainTable = driver.findElement(By.id("product-attribute-specs-table"));
@@ -239,6 +252,11 @@ public class Main {
             throw new RuntimeException(e);
         }
     }*/
+
+    /**
+     * Este método accede a la Arraylist spiceBD donde se guarda toda la información de las especias
+     * y con esa información lo usamos para crear un archivo csv.
+     */
     public static void openCsvOutput(){
         StringWriter writer = new StringWriter();
 
@@ -258,6 +276,10 @@ public class Main {
             e.printStackTrace();
         }
     }
+
+    /**
+     * Este método extrae la información guardada en spiceBD y lo escribimos en un archivo XML.
+     */
     public static void xmlOuput() {
         Spices spiceXML = new Spices();
         for (int i = 1; i < spiceBD.size(); i++) {

@@ -4,6 +4,10 @@ import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
+/**
+ * Esta clase crea un constructor llamado especia en inglés y se usará para guardar los atributos que
+ * se scrappea de https://github.com/haolgpan/TestAcces.
+ */
 @XmlRootElement(name="SPICE")
 public class Spice {
     String name;
@@ -161,7 +165,7 @@ public class Spice {
     public String getCaffeine() {
         return caffeine;
     }
-    @XmlElement(name = "SPICE_CAFFEINE_FREE?")
+    @XmlElement(name = "SPICE_CAFFEINE_FREE")
     public void setCaffeine(String caffeine) {
         this.caffeine = caffeine;
     }
@@ -214,6 +218,33 @@ public class Spice {
         this.link = link;
     }
 
+    /**
+     * Este constructor crea el objeto especia con los siguiente parámatros que corresponden a los atributos de una
+     * especia, hierba y sus formas de conservación.
+     * @param name Nombre
+     * @param intro Introdución
+     * @param description Descripción
+     * @param ingredients Ingredientes
+     * @param basic Aplicación básica
+     * @param recommended Aplicación recomenddad
+     * @param cuisine Países que cocinan con frecuencia esta especia
+     * @param productStyle Formato del producto, en polvo, granulado, líquido o la especia en sí
+     * @param botanicalName Nombre botánico
+     * @param fold Dosis
+     * @param notes Notas
+     * @param shellLife Caducidad
+     * @param bottleStyle Formato de botella
+     * @param capacityVolume Capacidad y volumen de la botella
+     * @param dimensions Dimensiones de la botella
+     * @param cap Tapón de la botella
+     * @param caffeine Cafeína
+     * @param scoville Grado calentamineto en escala Scoville
+     * @param handling Lugar de conservación
+     * @param origin País de orígen
+     * @param dietary Preferencias dietarias
+     * @param allergen Información para alérgenos
+     * @param link Link de la especia
+     */
     public Spice(String name, String intro, String description, String ingredients, String basic, String recommended, String cuisine, String productStyle, String botanicalName, String fold, String notes, String shellLife, String bottleStyle, String capacityVolume, String dimensions, String cap, String caffeine, String scoville, String handling, String origin, String dietary, String allergen, String link) {
         this.name = name;
         this.intro = intro;
@@ -239,6 +270,10 @@ public class Spice {
         this.allergen = allergen;
         this.link = link;
     }
+
+    /**
+     * Construcgtor vació para el funcionamiento de JAXB
+     */
     public Spice(){
     }
 }
