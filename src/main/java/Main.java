@@ -18,12 +18,14 @@ import java.util.Arrays;
 import java.util.List;
 /**
 * Este clase realiza un Web Scrapping sobre una página que contiene un lista de hierbas y especias.
- * @author: Hao Long Pan Zhao
- * @see <a href = "https://www.spicejungle.com/list-of-spices" />
- * @version: 12/12/2022
+ * @author Hao Long Pan Zhao
+ * @link https://www.spicejungle.com/list-of-spices
+ * @version 12/12/2022
  */
 
-
+/**
+ * Clase main donde se ejecutará el programa principal
+ */
 public class Main {
     //Index
     //spicesNames; --> 0
@@ -59,6 +61,10 @@ public class Main {
             "Cap","Caffeine free?","Scoville heat scale","Handling/Storage","Country of origin","Dietary preferences",
             "Allergen information","Page link"};
 
+    /**
+     * Main para iniciar y ejecutar el programa
+     * @param args Parámetro que lee los argumentos
+     */
     public static void main(String[] args) {
         System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver");
         FirefoxOptions options = new FirefoxOptions();
