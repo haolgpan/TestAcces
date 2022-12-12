@@ -486,7 +486,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Looking for something sweet and jammy? This is the tea for you. This is a black tea that provides all the health benefits and plenty of full-bodied flavor but without any of the astringency. The smell is intensely fruity, but the taste is all jam and dried fruit. Loose leaf black currant tea offers a verdant, slightly almond flavor that sweetens the experience.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -660,7 +660,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Start with cold, fresh water. Preheat tea pot, use approximately 3 grams of tea leaves for 6 oz of water. For tea, steep 4 minutes. For Herbal Teas/Tisanes brew as black teas, with water to rolling boil. Pour over tea or herbal, do not boil botanicals when making tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This is the loose leaf fruit tea for those days when you decide you need a mental health day. You call in sick to work and sleep in for a few extra hours. You wake up around 10:30 or so. You finally grab the book that’s been folded at chapter seven for the last month because you never have time to actually read. You set the kettle, make some toast, and pour a cup of Blackberry Fruit Tea. It’s a loose leaf black tea that’ll nudge you awake in due time, and the addition of dried blackberry leaves will instill a bit of serenity into your late morning.This blackberry fruit tea takes to milk and sugar just fine, but to really make it something special we recommend you stir in a teaspoon of your favorite jam to sweeten it and bring out the fruity flavors and herbal taste of the tea leaves. Order our bulk fruit tea today!</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1125,7 +1125,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Our blend of chai tea is a little bolder than other blends out there, putting more focus on the spices themselves than the actual tea leaves. You’ll find it very forward with ginger, black pepper, and clove making it exceptionally spicy. Cinnamon lays at the heart of each sip, clearing both the mind and sinuses. Finally, it tapers off with the rejuvenating touch of cardamom and allspice berries. Of course, the black tea is there to offer some tannin and pick-you-up.While absolutely wonderful black we love to serve this tea with honey and milk or coconut milk. Chefs love to grind it fine and use this blend in baking or as a rub for pork or beef. Lastly, add a pinch of it to our Assam Tea for a strong black tea with a hint of chai.Lastly, feel free to doctor this all-purpose chai base by adding star anise, lemongrass, rose, nutmeg, licorice root, saffron, vanilla bean, or other favored spices.Fun Fact: For etymology fans, many Middle Eastern and Asian languages use the word “cha,” “chay,” or ”chai“ for the word “tea.” This leads to a conflation when we refer to this tisane as “chai tea.”</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1430,7 +1430,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Cinnamomum cassia</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This particular tisane looks less like a tea and more like a natural confetti to be tossed out for celebration. Add hot water and it will fill any room with the aroma of cinnamon and summer stone fruit. A jammy sensation worth experiencing.The cup pours a gentle yellow and tastes mellower than one would think. A perky tea that would marry happily with a cheese plate decked out with triple cream cheeses, or perhaps used to flavor the milk used to make homemade caramels.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1548,7 +1548,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Matricaria recutita</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This bombastically aromatic tisane’s perfume is reminiscent of summer afternoons spent canning marmalades, jams, and jellies. The taste is floral with a bitter Seville orange flavor in the back with notes at the front of Meyer lemon and Nagami kumquat.This tisane pours honey-colored and pairs delightfully with jams and cakes. Of course, you can always cook with a bit of chamomile. Grind it up with white sugar and add it to angel food cake. Or, perhaps, when making a citrus marmalade brew the water with this delightful herbal blend for three minutes. Afterward, make the recipe as usual. The marmalade will take on the sooth sensation of chamomile.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1879,7 +1879,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>According to the Tea Board of India, this Darjeeling loose leaf tea must be grown, cultivated, produced, and manufactured in specific tea estates in West Bengal. These hilly, verdant areas have a specific terroir that produces specific flavors and aromas in tea plants that are greatly prized. Darjeeling teas are so prized that the Tea Board of India actually has a task force to stop counterfeit Darjeeling from being sold worldwide. True Darjeeling is officially stamped and approved by the government before it can be sold.The amber pour of these black tea leaves is floral in aroma – imagine daisies and lilacs – and the flavor is musky as a rough block of sandalwood or remnants of forgotten cinnamon sticks. It’s a tea drinker’s tea.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1958,7 +1958,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Our loose Earl Grey floral tea comes packed with bergamot oil and the addition of indigo cornflower petals. The result is a classic flavor with plenty of citrus. Often served with a bit of cream and sugar Earl Grey is the perfect tea time cup.Of course, Earl Grey is also a fantastic tool for the pastry fan. Use it to flavor cakes, macarons, ganache, and sweet breads. The result is ethereal. Want a popular pastry combination in San Francisco and Sacramento bakeries? Earl Grey cake slathered with lavender buttercream. Heaven.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -1974,7 +1974,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>English Breakfast tea is actually a blend of various kinds of black tea; particularly Assam, Ceylon, Kenyan, and Keemun. The Assam is malty and bitter, the Ceylon piney and sour, the Kenyan fruity and floral, and Keemun citric and smoky. Together these teas combine into one with layers of flavor. It’s a Rorschac test of tea, if you will, as everyone tastes something completely different.If you’re a new tea drinker who is used to coffee (or plan on converting a bean-drinker to the way of the leaf) then this is a fantastic starter tea. It has the robustness of black coffee, and takes to cream and sugar just as well. In addition, loose English breakfast black tea has plenty of antioxidants as well as caffeine to help you start the day.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2154,18 +2154,7 @@ All of them.</SPICE_INTRO>
         <SPICE_RECOMMENDED_APPLICATION>Ground Five Peppercorn Blend can be added in recipes calling for ground pepper. Some great applications include creamy salad dressings, marinade, vinaigrettes, and sauces. Ground Five Peppercorn Mélange has many uses and is well known for its aromatic qualities.</SPICE_RECOMMENDED_APPLICATION>
     </SPICE>
     <SPICE>
-        <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
-        <SPICE_BASIC_APPLICATION>As this blend is very strong, use sparingly or add to recipes as required. If adding to a sauce, allow the sauce to simmer for 3-5 minutes to allow for the flavors to blend. For a more complex taste, allow this Five Spice Powder to be cooked for longer time periods.</SPICE_BASIC_APPLICATION>
-        <SPICE_CUISINE>Asian, Chinese</SPICE_CUISINE>
-        <SPICE_DESCRIPTION>Chinese five spice powder is made of five ingredients, with the fifth one always being up for debate. Star anise, cloves, fennel seeds, and cinnamon are mandatory. Then it gets tricky; either the fifth spice consists of black peppercorns or Sichuan peppercorns. It really depends on who you ask in China. Heck, even in Southern parts of China the cinnamon is switched out for dried tangerine peel.So like most blends there are rules to its composition, but you only follow them if you want to and if you can agree on whose rules to follow.This 5-spice seasoning is used mainly as a rub or marinade ingredient for pork or duck as it brings out their savory, naturally salty flavors. This Chinese seasoning powder also combines well with garlic, scallions, ginger, and soy sauce.</SPICE_DESCRIPTION>
-        <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry place.</SPICE_HANDLING_AND_STORAGE>
-        <SPICE_INGREDIENTS>Anise seed, fennel, cinnamon, cloves, and black peppercorn.</SPICE_INGREDIENTS>
-        <SPICE_INTRO>Most Chinese five spice powders are disappointingly one note. They promise a balanced blend of savory, sweet, and bitter but all too often it’s just a mouthful of star anise. Not that that’s bad or anything but it’s not what you wanted. It’s like ordering a pizza and the delivery guy just brings you a box with a wedge of cheese in it. This is five note. As advertised.</SPICE_INTRO>
-        <SPICE_LINKS>https://www.spicejungle.com/chinese-five-spice-powder</SPICE_LINKS>
         <SPICE_NAME>Five Spice Powder, Chinese</SPICE_NAME>
-        <SPICE_COUNTRY_ORIGIN>United States</SPICE_COUNTRY_ORIGIN>
-        <SPICE_PRODUCT_STYLE>Powder</SPICE_PRODUCT_STYLE>
-        <SPICE_RECOMMENDED_APPLICATION>Traditionally used in Chinese Cuisine, this Five Spice Powder is fantastic when added to any sauce or marinade. Used for rubs to accommodate pork, poultry, or seafood for a unique flavor. Rub on a duck or chicken prior to roasting for a spicy-sweet flavor.</SPICE_RECOMMENDED_APPLICATION>
     </SPICE>
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
@@ -2407,7 +2396,7 @@ All of them.</SPICE_INTRO>
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This is a black tea for the person who isn’t keen on black tea. Just slip this in their cup without their noticing and watch after the first sip as they marvel (“What is this scrumptious tea!?”) and then express shock when you let them know (“Well, I’ll be darned!”). It’s a black tea that’s plenty sweet from all the dried peach, with a teeny hint of spice from the confetti of dried ginger we tossed in for good measure.We love to serve this Thai iced tea style: iced with a splash of half-and-half and ton of tapioca pearls!</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2560,7 +2549,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Hailing from the Jiangxi province Chun Mee tea is one of the most popular green teas shipped around the world. In fact, most of the green tea people drink generally tends to be Chun Mee (albeit usually made up of low-quality fannings and dust).Chun Mee has a pleasant chestnut aroma and the taste is complex, akin to sweetened chestnuts, artichoke, and apricot. The whole of it is a bit bitter, with a slightly sweet finish. Chun Mee is a quiet and easygoing tea leaf that loves to be bottled up and taken to yoga practice or the office.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2576,7 +2565,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>A green tea for those who feel they’ve tasted all other green teas. A colloquial name for this tea is Lucky Dragon Tea. Hyson tea from the Anhui province of China is actually considered a rather low-grade tea. However, those young buds plucked before the rainy season are considered to be particularly flavorful. The leaves are twisted into long, whisker-thin rolls that unfurl like tiny scrolls when steeped.The cup pours a pale yellow-green color similar to impure beryl. The flavor is full-bodied and strong with a piney finish that some casual tea drinkers may find off-putting at first, but that the connoisseur will find fascinating. It is this piney flavor that makes this tea perfect to drink alongside cold meat dishes or salty snacks.A little history note, it is estimated that about 15-20% of the tea tossed in the harbor at the Boston Tea Party was Hyson tea.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2699,7 +2688,7 @@ All of them.</SPICE_INTRO>
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>We’ve all had it happen in winter. That day where the heater dies, we’ve run out of logs to burn, or the electricity goes out. Sometimes a sweater just isn’t enough and eventually, you have to get out from under that pile of blankets for food or the bathroom. Winter can be hard and this spicy, herbal chai tea makes it much easier to withstand. Warming spices like ginger, cinnamon, cardamom, and black pepper come together to form brew that warms the body and invigorates the spirit. Steep in hot milk with a spoonful of brown sugar for an indulgent treat.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2715,7 +2704,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Aspalathus linearis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Rooibos doesn’t come from a tea plant, but from the rooibos plant, a broom-like legume found in South Africa’s shrubland. Brewed with hot water this tisane has been consumed for thousands of years in South Africa and it’s neighboring countries, and was an important item of trade throughout the continent.Rooibos steeped with the flavor of chocolate from real chocolate chips makes for an indulgent and bittersweet cup of herbal chocolate chai tea. However, we took it a few steps further: the smooth flavor is interrupted by tingling jolts of ginger and cardamom for a sensual and – dare we say – sexy cup.Another intriguing application is to pop a teaspoon of this loose leaf Chai tea into maple syrup. Microwave for about 20-30 seconds and allow to sit for about 5 minutes. Strain and enjoy your chocolate-chai maple syrup over a stack of pancakes.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2746,7 +2735,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Rinse quickly with cold water prior to use.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Hibiscus sabdariffa</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Hibiscus flower also goes by the name jamaica, sorrel, chai torsh, bissap, and many others. From Iran to Mexico to Tobago this crimson blossom has a serious fan following.Hibiscus flowers are sort of a miracle plant. The leaves are used to make healing compounds. The seeds have diuretic properties. The fibrous stems are used to make burlap. And the sepals – the fleshy part that holds the flower – are used for food coloring and for tisanes.To prepare, bring 2 quarts of water and 1 cup of sugar to a boil. Add spices if you like; popular options are cinnamon, ginger, lime zest, grains of paradise, a lace of mace, and dried vanilla pods. Add 1 cup of dried hibiscus flowers. Take off heat, cover, and steep for 20 minutes, then strain. Chill and serve. Preferably over ice with a squeeze of lime. Order hibiscus flowers in bulk from Spice Jungle today.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>Store in a cool, dry place.</SPICE_HANDLING_AND_STORAGE>
@@ -2762,7 +2751,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Ready to use as is, no preparation is required. To use, add 1 - 2 teaspoons of Hibiscus powder to desired recipe. If steeping in a liquid, powder sediment should be strained out prior to use.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Hibiscus sabdariffa</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Hibiscus flower also goes by the name jamaica, sorrel, chai torsh, bissap, and many others. From Iran to Mexico to Tobago this crimson blossom has a serious fan following. Hibiscus flowers are a sort of miracle plant. The leaves are used to make healing compounds. The seeds have diuretic properties. The fibrous stems are used to make burlap. And the sepals – the fleshy par that holds the flower – are used for food coloring and for tisanes.It’s the tisane part we’re interested in, of course. The flavor of hibiscus is very cranberry-like with an added floral quality to it. Often citrus juice or other fruit juices are added, sometimes black tea, and almost always a sweetener is stirred in to offset the tartness.Powdered hibiscus makes for a quick tea. Add hot water or green tea, give it a shake and a bit of sugar, pour it in a bottle and go. Instant agua de jamaica. For a more confectionary application roll homemade chocolate truffles in hibiscus powder as opposed to cocoa powder for sweet-tart treats with a broody pink complexion. For the jam maker, a teaspoon of hibiscus powder added to stone fruit or berry jams adds complexity and a pleasant tart tang.NOTE: In the inspection and processing of a 14,000 lb. shipment of conventional hibiscus our supplier received in February 2021, they discovered about a dozen peanut shell remnants (each less than 1/2 inch in size) which would equate to finding a total of 4 or 5 peanut shells (not actual peanuts, but shells) in 14,000 pounds of product received. This is due to the common practice of intercropping hibiscus and peanuts. While the incidence of peanut shell remnants appears to be very low, we wanted to make our customers aware of this slight possibility.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>Store in a cool, dry area.</SPICE_HANDLING_AND_STORAGE>
@@ -2859,7 +2848,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This “green chai” was originally blended for its health properties. It’s highly anti-aging, antiviral, antioxidant, and antibacterial, but not anti-flavor. Mediterranean and North American herbs were carefully picked and balanced with green tea for a soothing cup. Unlike traditional chai, which has a very spicy and bold approach, Immortalitea is more muted. If chai is an entire percussion section, then green chai is a master musician playing the flute.The overall effect might be thought to be overly herbal, even medicine-y. However, it’s rather floral and piney with a fresh, green flavor underneath.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2878,7 +2867,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>A blend of black teas with a preference for malty Assam tea, Irish Breakfast tea has a knack for being a bit brasher than an English Breakfast Tea. The flavor is strong and packed with a full-bodied, even somewhat bready flavor. Most often served with milk and a bit of sugar this tea is usually had at breakfast, but is often consumed at any time of day. Strangely enough, the highest consumer of most Irish Breakfast teas isn’t Ireland, but the United States.A popular use for Irish Breakfast tea for students is in oatmeal cookies. The ingredients are cheap, plus and the sugar and caffeine make the cookies the ultimate late night study tool. Just add a teaspoon of ground Irish Breakfast tea leaves to the flour and make the cookies as usual. They’ll take on a slightly malty flavor and keep you abuzz well into the wee hours.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -2974,7 +2963,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Scented green teas go as far back as the Song Dynasty (960 AD -1279 AD). This was a period of great technological, economic, political, and culinary achievements. The Song Dynasty saw the invention of the compass and the establishment of true north, the creation of gunpowder warfare, the first banknotes, and moveable type. Food-wise the Song Dynasty saw the spread of imported exotic produce such as jujubes, the proliferation of noodle shops, and the development of a wide array of scented green teas.Scented green teas were generally reserved for the Imperial court, though other high ranking and wealthy families were able to indulge in them. Green teas were placed in containers with powerful aromatics such as tangerine peel or cassia bark and allowed to absorb their flavor. One of the most prized scented teas was (and still is) jasmine. Jasmine blossoms are plucked at night when closed and then placed in containers of green tea. In the morning when the blossoms open they release their perfume, which is then absorbed by the tea leave. This can be repeated dozens of times.This basic green tea has been lightly scented and makes for a perfect anytime tea that brews easy and matches salty snacks, Chinese food, vegetable soups, fruit tarts, and chocolate cakes.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -3137,7 +3126,7 @@ All of them.</SPICE_INTRO>
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Surprise! There is no lemon in our lemonmint tea. Rather this herbal infusion effuses lemon via lemon balm, lemon verbena, and lemongrass; three very citrusy herbs that offer depth to contrast with the peppermint and spearmint. You can add a wedge of lemon if you want, but we don’t think you’ll miss it.We love this loose leaf herbal tea brewed strong and hard, maybe about 10-15 minutes. After that we add heaps of sugar, some more water, and then serve it over ice. (And then fresh lemon, because we’re persnickety like that.)</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -4595,7 +4584,7 @@ All of them.</SPICE_INTRO>
         <SPICE_ALLERGEN_INFORMATION>None Specified</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Aspalathus linearis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Rooibos doesn’t come from a tea plant, but from the rooibos plant, a broom-like legume found in South Africa’s shrubland. Brewed with hot water this tisane has been consumed for thousands of years in South Africa and it’s neighboring countries, and was an important item of trade throughout the continent.Today, the Rooibos red bush tea is often enjoyed much the safe way black tea or coffee is, with cream and sugar. However, rooibos is finding a modern preparation via the red espresso. Rooibos is ground to a fine powder and processed as espresso powder would be. The result is a much richer, more intense, dark red brew. In addition, many people enjoy brewing these rooibos tea leaves in milk as opposed to water and sweetening it with vanilla and simple syrup.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>All Natural, Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -5724,7 +5713,7 @@ Add to coffee grinds for vanilla-flavored coffee, or add pods to sugar to make v
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Can a tisane be considered refined? If so our Triple Berry is simply that. A delicate and adult tisane that eschews the idea that herbal teas should be fruity bags packed with words like “pizzaz” and “zinger.” This is about layers… a strawberry base, an herbal heart of juniper, and a floral finish with rose, hibiscus, and myrtle.For the boys, we like to craft this tisane into a simple syrup and serve it with gin and club soda over ice. A dandy concoction if we do say so.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Kosher Parve, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -6057,7 +6046,7 @@ Add to coffee grinds for vanilla-flavored coffee, or add pods to sugar to make v
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
         <SPICE_BOTANICAL_NAME>Camellia Sinensis</SPICE_BOTANICAL_NAME>
-        <SPICE_CAFFEINE_FREE?>No</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>No</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>This pomegranate white tea is the quiet power tea. Fragile tea buds plucked and dried into delicate emerald twirls are mixed with dried pomegranate for a fragrant tea that possesses a subtle tranquility. Yet, from the first sip you can feel vitamins, antioxidants, and a hint of caffeine begin to surge through your body and give you that extra jolt of energy you need to get through your day.While this tea is absolutely darling on its own, mixing it with a bit of peach juice would make for an energizing morning drink. For the dessert lover we love to use it for a simple milk pudding. Place 2 teaspoons of gelatin with 2 tablespoons if water in a bowl and allow to gel. Heat the 1 cup of cream and 1 tablespoon of white pomegranate tea over medium and add ½ cup of sugar and stir until dissolved. Strain out the tea. Stir the gelatin mixture into the cream and dissolve. Once it cools to room temperature stir in 2 cups of milk. Pour into serving bowls, cover with plastic wrap, and chill until set. Serve with a bit of your favorite jam.</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
@@ -6075,7 +6064,7 @@ Add to coffee grinds for vanilla-flavored coffee, or add pods to sugar to make v
     <SPICE>
         <SPICE_ALLERGEN_INFORMATION>May not be suitable for nut-allergic consumers.</SPICE_ALLERGEN_INFORMATION>
         <SPICE_BASIC_APPLICATION>Non-caffeinated; 3 grams of tea per six ounces of water yields approximately 150 cups per lb. of tea.</SPICE_BASIC_APPLICATION>
-        <SPICE_CAFFEINE_FREE?>Yes</SPICE_CAFFEINE_FREE?>
+        <SPICE_CAFFEINE_FREE>Yes</SPICE_CAFFEINE_FREE>
         <SPICE_DESCRIPTION>Smelling like a u-pick berry farm and tasting like the warm, indigo-dripping interior of a berry pie this tea is just a slice a heaven in July. Made from dried elderberry, rose hips, and tons of hibiscus it sure packs plenty of punch.Not only does the tea make for a decent iced tea, its also fun when mixed well with a splash of vodka. Pour some in a mug with a squeeze of lemon juice and a trickle of wildflower honey for a fantastic beverage when you are sick!</SPICE_DESCRIPTION>
         <SPICE_DIETARY_PREFERENCES>Gluten-Free, Non-GMO</SPICE_DIETARY_PREFERENCES>
         <SPICE_HANDLING_AND_STORAGE>To be stored in a cool, dry area out of direct light.</SPICE_HANDLING_AND_STORAGE>
