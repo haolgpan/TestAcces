@@ -116,6 +116,9 @@ public class Main {
                 spiceBD.add(spiceFullInfo);
             }
         }
+        //WebElement intro in the spice which starts with 'z' doesn't work with
+        // findElement(By.className("value")).findElement(By.tagName("p")), so the solution
+        // is only with the last element find element by CSS selector.
         try{
             String [] spiceFullInfo = new String[23];
             int i = spicesLinks.size()-1;
