@@ -10,6 +10,7 @@ import jakarta.xml.bind.annotation.XmlRootElement;
  */
 @XmlRootElement(name="SPICE")
 public class Spice {
+    //Atributos de la clase especia
     String name;
     String intro;
     String description;
