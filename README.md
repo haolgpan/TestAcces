@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # TestAcces
 >>>>>>> origin/master
 WebScrap of SpiceJungle
@@ -45,8 +44,5 @@ Este proyecto no tiene licencia de momento, pero se tiene pensado obtener para o
 Más documentación
 
 Todo el código está abierto y visible al público en el siguiente repositorio:
-<<<<<<< HEAD
 https://github.com/haolgpan/TestAcces
-=======
-https://github.com/haolgpan/TestAcces
->>>>>>> origin/master
+
